@@ -1,21 +1,23 @@
 #### **Install simulator** (for Mac)
 
-1. Install homebrew (visit this site for latest install info: http://brew.sh/)
+1. Open terminal
+
+2. Install homebrew (visit this site for latest install info: http://brew.sh/)
 > ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-2. Use homebrew to install git
+3. Use homebrew to install git
 > brew install git
 
-3. Use home-brew to install node
+4. Use home-brew to install node
 > brew install node
 
-4. Install gaia-develop (thanks to developer Yifan for this [package](https://www.npmjs.com/package/gaia-develop))
+5. Install gaia-develop (thanks to developer Yifan for this [package](https://www.npmjs.com/package/gaia-develop))
 > npm install -g gaia-develop
 
-5. git clone gaia (you can change the directory)
+6. git clone gaia (you can change the directory)
 > git clone https://github.com/mozilla-b2g/gaia
 
-6. Download and install Firefox Nightly, named b2g-xxxxxxxxxx-US.mac64.dmg, at: 
+7. Download and install Firefox Nightly, named b2g-xxxxxxxxxx-US.mac64.dmg, at: 
 > http://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-central
 
 
