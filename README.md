@@ -28,6 +28,6 @@
 > git pull origin master; gaia-develop tv
 
 #### **Function keys**
-#####Back (TV) = ESC (laptop)
-#####Home (TV) =  (1) home button at bottom, or (2) "fn" + "←"
-#####Option (TV) =  (1) right click on mouse, or (2) "double click" on touch-pad
+* Back (TV) = ESC (laptop)
+* Home (TV) =  (1) home button at bottom, or (2) "fn" + "←"
+* Option (TV) =  (1) right click on mouse, or (2) "double click" on touch-pad
